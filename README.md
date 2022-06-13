@@ -1,8 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 Analysis on Kickstarter data to uncover trends.
 ---
-![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
-![Parent Category Outcomes Chart Image](Parent Category Outcomes Chart Image.png)
+![Outcomes Based on Launch Date](/Outcomes Based on Launch Date.png)
+![Parent Category Outcomes Chart Image](/Parent Category Outcomes Chart Image.png)
 ---
 # Recommendations and Insights
 * May and June have greater success rates for the launch of kickstarters.
